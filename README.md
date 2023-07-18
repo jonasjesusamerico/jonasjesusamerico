@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Jonas de Jesus Américo </h1>
-<h3 align="left">A back-end developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Jonas de Jesus Américo </h1>
+<h3 align="center">A back-end developer from Brazil</h3>
 
 <div align="center">
   <a href="https://github.com/jonasjesusamerico">
