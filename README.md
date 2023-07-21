@@ -26,3 +26,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jonasjesusamerico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="americo-jonas" height="30" width="40" /></a>
 </p>
+<br>
+<p>
+  <img src="http://views.whatilearened.today/views/github/jonasjesusamerico/views.svg"/>
+</p>
