@@ -3,9 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/jonasjesusamerico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasjesusamerico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjesusamerico&layout=compact&langs_count=6&count_private=true&theme=dracula&hide=C,C%2B%2B"/>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasjesusamerico&theme=dracula" alt="jonasjesusamerico" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasjesusamerico&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjesusamerico&layout=compact&langs_count=6&count_private=true&theme=default&hide=C,C%2B%2B"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasjesusamerico&theme=transparent" alt="jonasjesusamerico" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
